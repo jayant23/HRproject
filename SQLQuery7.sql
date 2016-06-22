@@ -1,0 +1,1 @@
+select * from Purpose_of_shortlisted_candidates
